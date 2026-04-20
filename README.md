@@ -19,4 +19,3 @@
 ## Print da home-page criada
 
 <img src="public/img/homepage-print.png" alt="Wireframe" width="400">
-![alt text](image.png)
