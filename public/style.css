@@ -147,7 +147,7 @@ body {
   transition: var(--transition-background);
 }
 
-.action-button:hover {
+.action-button:hover, .main-nav-left button:hover {
   background: #522151;
   transition:
     transform 0.2s ease,
@@ -187,6 +187,10 @@ main {
   margin: 0;
 }
 
+.hero-content h1 span{
+  color: #ffcdff;
+}
+
 .main-nav-left p {
   max-width: 22rem;
 }
@@ -215,3 +219,4 @@ main {
   cursor: pointer;
   margin-top: 0.5rem;
 }
+
