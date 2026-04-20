@@ -1,27 +1,20 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Sglf0bWs)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=23579987&assignment_repo_type=AssignmentRepo)
 # Trabalho Prático - Semana 04
-
-Dessa vez, vamos escolher uma proposta de projeto para trabalhar.
-
-Nessa atividade, você deverá montar a página inicial do projeto escolhido, a organização do HTML aplicando semântica correta e uso aprimorado do CSS. Leia o enunciado completo no Canvas para mais detalhes.
-
-**IMPORTANTE:** Você deve trabalhar e alterar apenas arquivos dentro da pasta **`public`**. Deixe todos os demais arquivos e pastas desse repositório inalterados. **PRESTE MUITA ATENÇÃO NISSO.**
-
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Daniel Heber de Souza Godinho   
+- Matricula: 909411
+- Proposta de projeto escolhida: Temas e Conteúdos Associados
+- Breve descrição sobre seu projeto: Um projeto sobre academia que consiste em um programa capaz de registrar seus treinos ou montá-los automaticamente para você. Ele conta com funções que ajustam o volume de séries, garantindo que seja suficiente para a evolução, sem ser excessivo a ponto de prejudicar seu desempenho ou sua rotina. Além disso, o sistema permite anotar as cargas utilizadas para acompanhar sua progressão e adicionar amigos para comparar seu desempenho com o deles.
 
 
 ## Print do(s) wireframe(s) criado
-> Sugestão, use o Excalidraw para isso. Utilize esse [template básico](https://excalidraw.com/#json=LU-8hwcQEwzk11FwO8Opo,qPU9K6cNUEzlXzwOuKMIlQ) para você começar. 
+> Esse é so o protótipo extremamente básico, pretendo deixa-lo bem melhor durante a programação. 
 
-<<  COLOQUE A IMAGEM AQUI >>
-
-
+<img src="public/img/img-wireframe/image.png" alt="Wireframe" width="400">
+<img src="public/img/img-wireframe/image-1.png" alt="Wireframe" width="400">
+<img src="public/img/img-wireframe/image-2.png" alt="Wireframe" width="400">
+<img src="public/img/img-wireframe/image-3.png" alt="Wireframe" width="400">
+<img src="public/img/img-wireframe/image-4.png" alt="Wireframe" width="400">
 
 ## Print da home-page criada
 
