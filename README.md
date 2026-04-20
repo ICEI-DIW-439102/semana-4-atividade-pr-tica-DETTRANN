@@ -8,7 +8,7 @@
 
 
 ## Print do(s) wireframe(s) criado
-> Esse é so o protótipo extremamente básico, pretendo deixa-lo bem melhor durante a programação. Ainda estou em dúvida sobre a paleta de cores
+> Esse é so o protótipo extremamente básico, pretendo deixa-lo bem melhor durante a programação. Ainda estou em dúvida sobre a paleta de cores.
 
 <img src="public/img/img-wireframe/image.png" alt="Wireframe" width="400">
 <img src="public/img/img-wireframe/image-1.png" alt="Wireframe" width="400">
@@ -18,4 +18,5 @@
 
 ## Print da home-page criada
 
-<img src="public/img/homepage-image.png" alt="Wireframe" width="400">
+<img src="public/img/homepage-print.png" alt="Wireframe" width="400">
+![alt text](image.png)
