@@ -1,0 +1,500 @@
+{
+  "sistema": {
+    "id": 1,
+    "nome": "GymStreak",
+    "subtitulo": "Organizacao e acompanhamento de treinos",
+    "chamada": "Organize seu treino ideal",
+    "descricao": "Monte rotinas, ajuste o volume, registre cargas e acompanhe sua evolucao em uma experiencia pensada para constancia na academia.",
+    "menu": [
+      {
+        "texto": "Destaques",
+        "url": "index.html#destaques"
+      },
+      {
+        "texto": "Funcionalidades",
+        "url": "index.html#funcionalidades"
+      },
+      {
+        "texto": "Evolucao",
+        "url": "index.html#evolucao"
+      },
+      {
+        "texto": "Autor",
+        "url": "index.html#autor"
+      }
+    ],
+    "autor": {
+      "nome": "Daniel Heber de Souza Godinho",
+      "matricula": "909411",
+      "projeto": "GymStreak",
+      "disciplina": "Desenvolvimento de Interfaces Web",
+      "descricao": "Projeto academico sobre uma plataforma de academia para organizar treinos, acompanhar cargas e comparar a evolucao de forma clara e motivadora."
+    }
+  },
+  "funcionalidades": [
+    {
+      "id": 1,
+      "nome": "Montar Treino",
+      "categoria": "Planejamento",
+      "objetivo": "Criar uma rotina de treino compativel com os dias disponiveis do usuario.",
+      "descricao": "Organize seu treino ideal com uma divisao clara por grupos musculares, tempo medio de sessao e foco no objetivo principal.",
+      "destaque": "Sua sequencia atual comecando por um plano bem montado.",
+      "imagem": "assets/img/main-img.png",
+      "imagemAlt": "Aluno em uma academia representando o aplicativo GymStreak",
+      "visual": "workout",
+      "indicadores": [
+        "3 a 6 dias",
+        "45 a 70 min",
+        "Divisao automatica"
+      ],
+      "detalhes": [
+        {
+          "rotulo": "Nome",
+          "valor": "Montar Treino"
+        },
+        {
+          "rotulo": "Objetivo",
+          "valor": "Organizar a rotina semanal de musculacao."
+        },
+        {
+          "rotulo": "Dias disponiveis",
+          "valor": "De 3 a 6 dias por semana."
+        },
+        {
+          "rotulo": "Objetivo principal",
+          "valor": "Hipertrofia, forca ou condicionamento."
+        },
+        {
+          "rotulo": "Metodo de divisao",
+          "valor": "Treino A/B, ABC ou ABCD conforme disponibilidade."
+        },
+        {
+          "rotulo": "Tempo medio por treino",
+          "valor": "Entre 45 e 70 minutos."
+        },
+        {
+          "rotulo": "Beneficio principal",
+          "valor": "Evita treinos improvisados e melhora a consistencia."
+        }
+      ],
+      "fotos": [
+        {
+          "titulo": "Treino A",
+          "descricao": "Sessao com foco em peito, ombros e triceps.",
+          "visual": "workout"
+        },
+        {
+          "titulo": "Treino B",
+          "descricao": "Sessao com foco em costas, biceps e estabilidade.",
+          "visual": "workout"
+        },
+        {
+          "titulo": "Treino C",
+          "descricao": "Sessao com foco em pernas, gluteos e core.",
+          "visual": "workout"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "Volume Ideal",
+      "categoria": "Controle de Volume",
+      "objetivo": "Indicar uma quantidade equilibrada de series semanais por grupo muscular.",
+      "descricao": "Receba uma sugestao de volume semanal para evoluir sem exagerar na carga de treino ou comprometer a recuperacao.",
+      "destaque": "Mais estimulo, menos excesso.",
+      "visual": "chart",
+      "indicadores": [
+        "Series semanais",
+        "Recuperacao",
+        "Progressao"
+      ],
+      "detalhes": [
+        {
+          "rotulo": "Nome",
+          "valor": "Volume Ideal"
+        },
+        {
+          "rotulo": "Objetivo",
+          "valor": "Ajustar o numero de series por musculo."
+        },
+        {
+          "rotulo": "Publico-alvo",
+          "valor": "Praticantes iniciantes e intermediarios."
+        },
+        {
+          "rotulo": "Volume recomendado",
+          "valor": "Entre 10 e 20 series semanais por grupo muscular."
+        },
+        {
+          "rotulo": "Base utilizada",
+          "valor": "Objetivo, frequencia semanal e nivel de experiencia."
+        },
+        {
+          "rotulo": "Beneficios",
+          "valor": "Reduz excesso de treino e melhora a recuperacao."
+        },
+        {
+          "rotulo": "Frequencia sugerida",
+          "valor": "2 estimulos semanais por grupo muscular."
+        }
+      ],
+      "fotos": [
+        {
+          "titulo": "Grafico de series semanais",
+          "descricao": "Visualizacao do volume planejado por grupo muscular.",
+          "visual": "chart"
+        },
+        {
+          "titulo": "Exemplo de divisao ABC",
+          "descricao": "Distribuicao equilibrada das series ao longo da semana.",
+          "visual": "workout"
+        },
+        {
+          "titulo": "Baixo volume x alto volume",
+          "descricao": "Comparacao entre estimulo insuficiente e excesso de series.",
+          "visual": "compare"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nome": "Anotar Carga",
+      "categoria": "Registro",
+      "objetivo": "Registrar as cargas usadas em cada exercicio para acompanhar progressao.",
+      "descricao": "Salve cargas, repeticoes e observacoes do treino para identificar quando e possivel progredir com seguranca.",
+      "destaque": "Seu diario de treino sempre atualizado.",
+      "visual": "log",
+      "indicadores": [
+        "Carga",
+        "Repeticoes",
+        "Historico"
+      ],
+      "detalhes": [
+        {
+          "rotulo": "Nome",
+          "valor": "Anotar Carga"
+        },
+        {
+          "rotulo": "Objetivo",
+          "valor": "Registrar cargas, repeticoes e observacoes."
+        },
+        {
+          "rotulo": "Tipo de registro",
+          "valor": "Por exercicio, serie e data do treino."
+        },
+        {
+          "rotulo": "Armazenamento",
+          "valor": "Historico centralizado no perfil do usuario."
+        },
+        {
+          "rotulo": "Beneficio principal",
+          "valor": "Facilita a progressao de carga sem depender da memoria."
+        },
+        {
+          "rotulo": "Indicador de progresso",
+          "valor": "Comparacao entre carga anterior e carga atual."
+        },
+        {
+          "rotulo": "Ultima atualizacao",
+          "valor": "Atualizado ao final de cada treino registrado."
+        }
+      ],
+      "fotos": [
+        {
+          "titulo": "Registro de Supino",
+          "descricao": "Controle de series, carga e repeticoes do supino.",
+          "visual": "log"
+        },
+        {
+          "titulo": "Registro de Agachamento",
+          "descricao": "Anotacao da carga usada no treino de pernas.",
+          "visual": "log"
+        },
+        {
+          "titulo": "Historico semanal",
+          "descricao": "Resumo das cargas registradas durante a semana.",
+          "visual": "history"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nome": "Comparar Evolucao",
+      "categoria": "Analise",
+      "objetivo": "Comparar metricas do usuario em diferentes periodos de treino.",
+      "descricao": "Veja se as cargas, repeticoes e frequencia estao subindo ao longo do tempo por meio de indicadores simples.",
+      "destaque": "Evolucao visivel, treino apos treino.",
+      "visual": "progress",
+      "indicadores": [
+        "Cargas",
+        "Repeticoes",
+        "Periodo"
+      ],
+      "detalhes": [
+        {
+          "rotulo": "Nome",
+          "valor": "Comparar Evolucao"
+        },
+        {
+          "rotulo": "Objetivo",
+          "valor": "Avaliar a progressao individual no tempo."
+        },
+        {
+          "rotulo": "Metrica principal",
+          "valor": "Carga maxima registrada por exercicio."
+        },
+        {
+          "rotulo": "Metrica secundaria",
+          "valor": "Repeticoes, frequencia e volume total."
+        },
+        {
+          "rotulo": "Periodo analisado",
+          "valor": "Semanal, mensal ou personalizado."
+        },
+        {
+          "rotulo": "Indicadores exibidos",
+          "valor": "Tendencia, melhor marca e variacao percentual."
+        },
+        {
+          "rotulo": "Beneficio",
+          "valor": "Ajuda a ajustar o treino com base em dados reais."
+        },
+        {
+          "rotulo": "Comparacao",
+          "valor": "Carga atual comparada com registros anteriores."
+        }
+      ],
+      "fotos": [
+        {
+          "titulo": "Evolucao do Supino",
+          "descricao": "Linha de progresso com as melhores cargas registradas.",
+          "visual": "progress"
+        },
+        {
+          "titulo": "Comparacao de cargas",
+          "descricao": "Relacao entre marcas antigas e atuais.",
+          "visual": "compare"
+        },
+        {
+          "titulo": "Historico mensal",
+          "descricao": "Resumo da evolucao durante o mes.",
+          "visual": "history"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "nome": "Comparar Evolucao com Amigos",
+      "categoria": "Social",
+      "objetivo": "Criar comparacoes saudaveis entre amigos que treinam juntos.",
+      "descricao": "Acompanhe rankings, estatisticas compartilhadas e evolucao coletiva para manter a motivacao em grupo.",
+      "destaque": "Constancia tambem pode ser coletiva.",
+      "visual": "social",
+      "indicadores": [
+        "Ranking",
+        "Semana",
+        "Grupo"
+      ],
+      "detalhes": [
+        {
+          "rotulo": "Nome",
+          "valor": "Comparar Evolucao com Amigos"
+        },
+        {
+          "rotulo": "Objetivo",
+          "valor": "Comparar desempenho de forma motivadora."
+        },
+        {
+          "rotulo": "Ranking",
+          "valor": "Classificacao por frequencia, carga ou evolucao percentual."
+        },
+        {
+          "rotulo": "Comparacao semanal",
+          "valor": "Resumo dos treinos concluidos na semana."
+        },
+        {
+          "rotulo": "Comparacao mensal",
+          "valor": "Evolucao acumulada entre amigos no mes."
+        },
+        {
+          "rotulo": "Estatisticas compartilhadas",
+          "valor": "Frequencia, volume e melhores marcas."
+        },
+        {
+          "rotulo": "Beneficios",
+          "valor": "Aumenta engajamento, disciplina e senso de comunidade."
+        }
+      ],
+      "fotos": [
+        {
+          "titulo": "Ranking",
+          "descricao": "Classificacao dos amigos com melhor evolucao.",
+          "visual": "social"
+        },
+        {
+          "titulo": "Evolucao coletiva",
+          "descricao": "Indicadores do grupo ao longo do tempo.",
+          "visual": "progress"
+        },
+        {
+          "titulo": "Estatisticas comparativas",
+          "descricao": "Comparacao entre frequencia, volume e cargas.",
+          "visual": "compare"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "nome": "Historico de Treinos",
+      "categoria": "Historico",
+      "objetivo": "Guardar todos os treinos realizados para consulta e analise.",
+      "descricao": "Consulte dias treinados, exercicios feitos, frequencia semanal e resumos para manter a rotina sob controle.",
+      "destaque": "Tudo que voce treinou em um so lugar.",
+      "visual": "history",
+      "indicadores": [
+        "Calendario",
+        "Registros",
+        "Resumo"
+      ],
+      "detalhes": [
+        {
+          "rotulo": "Nome",
+          "valor": "Historico de Treinos"
+        },
+        {
+          "rotulo": "Objetivo",
+          "valor": "Registrar e consultar treinos finalizados."
+        },
+        {
+          "rotulo": "Quantidade de registros",
+          "valor": "Lista acumulada de treinos cadastrados."
+        },
+        {
+          "rotulo": "Frequencia semanal",
+          "valor": "Quantidade de treinos realizados na semana."
+        },
+        {
+          "rotulo": "Ultimo treino",
+          "valor": "Data, exercicios e cargas da sessao mais recente."
+        },
+        {
+          "rotulo": "Estatisticas",
+          "valor": "Media semanal, volume total e dias ativos."
+        },
+        {
+          "rotulo": "Beneficios",
+          "valor": "Mostra consistencia e facilita revisao da rotina."
+        }
+      ],
+      "fotos": [
+        {
+          "titulo": "Historico mensal",
+          "descricao": "Linha do tempo com todos os treinos do mes.",
+          "visual": "history"
+        },
+        {
+          "titulo": "Calendario de treinos",
+          "descricao": "Marcacao visual dos dias com treino registrado.",
+          "visual": "calendar"
+        },
+        {
+          "titulo": "Resumo de atividades",
+          "descricao": "Totais de frequencia, volume e exercicios feitos.",
+          "visual": "chart"
+        }
+      ]
+    }
+  ],
+  "usuarios": [
+    {
+      "id": 1,
+      "login": "admin",
+      "nome": "Administrador GymStreak",
+      "email": "admin@gymstreak.com",
+      "senha": "admin123",
+      "perfil": "admin"
+    },
+    {
+      "id": 2,
+      "login": "daniel",
+      "nome": "Daniel Godinho",
+      "email": "daniel@gymstreak.com",
+      "senha": "123456",
+      "perfil": "usuario"
+    },
+    {
+      "login": "daniel123",
+      "nome": "dabuek",
+      "email": "daniel@gmail.com",
+      "senha": "1234",
+      "perfil": "usuario",
+      "id": 3
+    }
+  ],
+  "favoritos": [
+    {
+      "id": 1,
+      "usuarioId": 2,
+      "funcionalidadeId": 1
+    },
+    {
+      "id": 2,
+      "usuarioId": 2,
+      "funcionalidadeId": 4
+    },
+    {
+      "usuarioId": 3,
+      "funcionalidadeId": 2,
+      "id": 3
+    },
+    {
+      "usuarioId": 3,
+      "funcionalidadeId": 6,
+      "id": 4
+    },
+    {
+      "usuarioId": 3,
+      "funcionalidadeId": 1,
+      "id": 5
+    },
+    {
+      "usuarioId": 3,
+      "funcionalidadeId": 5,
+      "id": 6
+    }
+  ],
+  "evolucao": [
+    {
+      "id": 1,
+      "grupo": "Peito",
+      "series": 16,
+      "carga": 82,
+      "treinos": 4,
+      "cor": "#ffdc5c"
+    },
+    {
+      "id": 2,
+      "grupo": "Costas",
+      "series": 14,
+      "carga": 76,
+      "treinos": 4,
+      "cor": "#c986ff"
+    },
+    {
+      "id": 3,
+      "grupo": "Pernas",
+      "series": 18,
+      "carga": 110,
+      "treinos": 3,
+      "cor": "#69e39a"
+    },
+    {
+      "id": 4,
+      "grupo": "Ombros",
+      "series": 10,
+      "carga": 38,
+      "treinos": 3,
+      "cor": "#f06b9a"
+    }
+  ]
+}

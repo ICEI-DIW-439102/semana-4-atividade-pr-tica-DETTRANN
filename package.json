@@ -1,0 +1,12 @@
+{
+  "name": "gymstreak-json-server",
+  "version": "1.0.0",
+  "description": "Projeto GymStreak com front-end estatico e API REST via JSON Server.",
+  "scripts": {
+    "server": "json-server --watch db.json --port 3000"
+  },
+  "dependencies": {
+    "json-server": "^0.17.4"
+  },
+  "devDependencies": {}
+}

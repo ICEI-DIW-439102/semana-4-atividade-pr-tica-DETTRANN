@@ -8,4 +8,4 @@
 
 ## Print da home-page criada
 
-<img src="assets/img/homepage-print.png" alt="Wireframe" width="400">
+<img src="/public/assets/img/homepage-print.png" alt="Wireframe" width="400">
